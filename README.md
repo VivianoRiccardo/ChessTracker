@@ -3,7 +3,7 @@
 ChessTracker is an OpenSource code repository written in python that tracks from chess.com and lichess.org the games of your favourite chess players,
 recreates the boards on your local machine using python libraries and stockfish and streams the games on your favourite platforms such as Twitch / Youtube / Kick.
 At the moment the implementation is with Chess.com and Twitch.
-Furute works will involve Youtube / Kick streams and Lichess tracking
+Futute works will involve Youtube / Kick streams and Lichess tracking
 
 ChessTracker is a Linux based implementation.
 
@@ -19,14 +19,14 @@ Docker ubuntu image with base requirements (geckodriver, python3.10, python need
 
 - geckodriver >= 0.34.0 (https://github.com/mozilla/geckodriver/releases) (M - {07/03/2024})
 - python >= 3.10 (M - {07/03/2024})
-- pip >= 22.0.2
+- pip >= 22.0.2 (M -{07/03/2024})
 - look at requirements.txt for python libraries (M - {07/03/2024})
 - ffmpeg (M - {07/03/2024})
 - Firefox Profile Directory already logged in Chess.com (M - {07/03/2024})
 - Twitch channel (https://www.twitch.tv/) (M - {07/03/2024})
 - Twitch streaming key (M - {07/03/2024})
 - Twitch client_id, Twitch client_secret (O - {07/03/2024})
-- libvips-dev
+- libvips-dev (M -{07/03/2024})
 
 # JSON
 
@@ -35,7 +35,7 @@ Docker ubuntu image with base requirements (geckodriver, python3.10, python need
 Here you can set the players you want to stream from either chess.com or lichess.
 At the moment only chess.com (Since is the most used by famous players) is available.
 the "priority" field set in the json tells you how important a streamer is. So in this case if the number of players you want to stream
-exceeds the number of possible games to set in the frames sent to Twitch/Youtube/Kick the priority parameter let you prioritize some players rather than others.
+exceeds the number of possible games to set in the frames sent to Twitch/Youtube/Kick the priority parameter lets you prioritize some players rather than others.
 
 ## streaming_configuration.json  
 
