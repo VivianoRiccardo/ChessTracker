@@ -1,4 +1,11 @@
-Linux based implementation.
+# ChessTracker
+
+ChessTracker is an OpenSource code repository written in python that tracks from chess.com and lichess.org the games of your favourite chess players,
+recreates the boards on your local machine using python libraries and stockfish and streams the games on your favourite platforms such as Twitch / Youtube / Kick.
+At the moment the implementation is with Chess.com and Twitch.
+Furute works will involve Youtube / Kick streams and Lichess tracking
+
+ChessTracker is a Linux based implementation.
 
 Docker ubuntu image with base requirements (geckodriver, python3.10, python needed libraries, ffmpeg) is provided.
 
