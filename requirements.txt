@@ -1,0 +1,9 @@
+websockets
+requests
+chess
+cairosvg
+Pillow==9.4.0
+selenium
+numpy
+svglib
+pyvips
