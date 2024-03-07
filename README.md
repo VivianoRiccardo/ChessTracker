@@ -39,6 +39,11 @@ As default the first one is the one taken.
 
 Here you can define the client_id and client_secret for the api interaction (At the moment {07/03/2024} only twitch is available)
 
+## firefox_profile.json
+
+Here you just select the path of your firefox directory where you have a profile logged into chesscom
+
+
 # GeckoDriver
 
 ```
