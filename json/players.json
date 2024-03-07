@@ -1,0 +1,81 @@
+{
+    "players":{
+        "Hans Niemann":{
+            "chesscom":{
+                "profiles":[
+                    "HansOnTwitch"
+                ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":0.50
+        },
+        "Hikaru Nakamura":{
+            "chesscom":{
+                "profiles":[
+                    "Hikaru"
+                ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":0.96
+        },
+        "Magnus Carlsen":{
+            "chesscom":{
+                "profiles":[
+                    "MagnusCarlsen"
+                    ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":1.0
+        },
+        "Alireza Firouzja":{
+            "chesscom":{
+                "profiles":[
+                    "Firouzja2003"
+                ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":0.90
+        },
+        "Andrew Tang":{
+            "chesscom":{
+                "profiles":[
+                    "penguingm1"
+                ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":0.75
+        },
+        "Fabiano Caruana":{
+            "chesscom":{
+                "profiles":[
+                    "FabianoCaruana"
+                ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":0.85
+        },
+        "Daniel Naroditsky":{
+            "chesscom":{
+                "profiles":[
+                    "DanielNaroditsky"
+                ]
+            },
+            "lichess":{
+                "profiles":[]
+            },
+            "priority":0.90
+        }
+    }
+}

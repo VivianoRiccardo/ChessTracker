@@ -1,0 +1,42 @@
+{
+	"streaming_services":{
+		"twitch":{
+			"streaming_key":"",
+			"servers": [
+			{
+				"country":"Italy",
+				"url":"rtmp://mil02.contribute.live-video.net/app/"
+			},
+			{
+				"country":"Germany",
+				"url":"rtmp://muc01.contribute.live-video.net/app/"
+			},
+			{
+				"country":"France",
+				"url":"rtmp://mrs02.contribute.live-video.net/app/"
+			},
+			{
+				"country":"France",
+				"url":"rtmp://mrs.contribute.live-video.net/app/"
+			},
+			{
+				"country":"Germany",
+				"url":"rtmp://fra06.contribute.live-video.net/app/"
+			},
+			{
+				"country":"France",
+				"url":"rtmp://cdg10.contribute.live-video.net/app/"
+			},
+			{
+				"country":"Austria",
+				"url":"rtmp://vie02.contribute.live-video.net/app/"
+			},
+			{
+				"country":"Netherlands",
+				"url":"rtmp://ams02.contribute.live-video.net/app/"
+			}]
+		}
+	}
+}
+			
+				

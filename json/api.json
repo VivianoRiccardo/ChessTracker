@@ -1,0 +1,8 @@
+{
+    "platforms":{
+        "twitch":{
+            "client_id":"",
+            "client_secret":""
+            }
+		}
+}
